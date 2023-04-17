@@ -3,6 +3,6 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	// sixth commit
+	// 7th commit
     }
 }
