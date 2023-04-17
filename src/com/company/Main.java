@@ -3,8 +3,6 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	// 11th commit
+	// test 1 commit 1
     }
 }
-//haha3 just for checking
-//haha4 just for checking
